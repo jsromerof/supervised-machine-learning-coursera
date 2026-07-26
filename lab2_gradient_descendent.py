@@ -1,4 +1,4 @@
-from cost_funtion import compute_cost
+from lab1_cost_funtion import compute_cost
 import math
 import numpy as np
 
